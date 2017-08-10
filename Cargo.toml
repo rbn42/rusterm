@@ -1,0 +1,10 @@
+[package]
+name = "rusterm"
+version = "0.1.0"
+authors = ["rbn42 <bl100@students.waikato.ac.nz>"]
+
+[dependencies]
+
+[dependencies.gtk]
+version = "0.1.3"
+features = ["v3_10"]
